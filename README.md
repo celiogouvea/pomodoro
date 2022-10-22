@@ -1,7 +1,11 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can install dependency:
+
+### `npm install`
+
+project run:
 
 ### `npm start`
 
